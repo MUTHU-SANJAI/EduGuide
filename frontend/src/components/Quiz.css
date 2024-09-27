@@ -1,0 +1,19 @@
+/* src/components/Quiz.css */
+.quiz-container {
+    padding: 20px;
+    text-align: center;
+    padding-top:120px;
+    padding-bottom: 150px;
+  }
+  
+  .quiz-title {
+    color: #1a3b5d; /* Navy blue */
+    margin-bottom: 20px;
+  }
+  
+  .quiz-boxes {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+  }
+  
